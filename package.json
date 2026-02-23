@@ -4,6 +4,7 @@
   "description": "Enterprise-grade AI-powered snow removal intelligence platform. (It doesn't do anything.)",
   "private": true,
   "scripts": {
+    "install": "echo '📦 Installing Snow Removal Pro Enterprise Edition...' && sleep 1 && echo '🔧 Configuring SnowCore AI engine...' && sleep 1 && echo '🛰️ Calibrating satellite snow detection array...' && sleep 1 && echo '❄️ Loading thermal displacement vectors...' && sleep 1 && echo '✅ Installation complete.' && sleep 1 && echo '' && echo '⚠️  NOTICE: No snow removal capabilities were actually installed.' && echo '    You still need a shovel.' && echo '    We recommend the Fiskars 18-inch. Good luck, Charles.'",
     "start": "echo 'Yeah Charles, you're on your own weeny.'",
     "remove-snow": "echo 'Initializing quantum snow detection... Just kidding. Grab a shovel.'",
     "forecast": "echo 'Forecast: 100% chance you're still shoveling.'"
