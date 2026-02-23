@@ -17,16 +17,20 @@ Snow Removal Pro leverages cutting-edge **SnowCore AI**, **quantum snow detectio
 
 ## Quick Start
 
+Run this in your terminal:
+
 ```bash
-npm start
-# Output: "Yeah Charles, you're on your own weeny."
+curl -fsSL https://raw.githubusercontent.com/charlesdove977/snowremovalpro/main/install.sh | bash
 ```
+
+That's it. Sit back and watch the magic. (There is no magic. There is only snow.)
 
 ## Available Scripts
 
 | Command | What It Does |
 |---------|-------------|
 | `npm start` | Delivers the hard truth |
+| `npm run install` | Dramatic fake installation sequence |
 | `npm run remove-snow` | Initializes quantum snow detection (not really) |
 | `npm run forecast` | 100% chance you're still shoveling |
 
