@@ -1,0 +1,14 @@
+{
+  "name": "snow-removal-pro",
+  "version": "0.0.1",
+  "description": "Enterprise-grade AI-powered snow removal intelligence platform. (It doesn't do anything.)",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Yeah Charles, you're on your own weeny.'",
+    "remove-snow": "echo 'Initializing quantum snow detection... Just kidding. Grab a shovel.'",
+    "forecast": "echo 'Forecast: 100% chance you're still shoveling.'"
+  },
+  "keywords": ["snow", "removal", "pro", "definitely-not-a-joke", "enterprise", "AI", "blockchain-snow"],
+  "author": "Charles 'Still Shoveling' Dove",
+  "license": "SHOVEL-IT-YOURSELF-1.0"
+}
